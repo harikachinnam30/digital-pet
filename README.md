@@ -826,17 +826,3 @@ Project documentation.
 
 
 
-\## Individual Work
-
-
-
-This project was completed individually.
-
-
-
-I implemented the application logic, user interface, timers, Energy system, additional activities, visual effects, automated tests, debugging, and documentation for my Digital Pet application.
-
-
-
-Since this was completed individually, there was no teammate code contribution to review.
-
